@@ -42,7 +42,8 @@ It works by using the ultrasonic sensor to detect an object at a particular dist
 This project is focused on printing charcters on an LCD(Liquid Crystal Display) to make it visible and readable. The size used in this project is the 16x2 LCD i.e 2 rows , 16 columns.
 The image below is the display of 2 sentences occupying the 2 rows of the display. 
 
-<img width="628" height="455" alt="image" src="https://github.com/user-attachments/assets/0a70d4ab-78de-4f6f-9c29-c6e4c3803b9d" />
+<img width="345" height="326" alt="Screenshot 2025-10-03 071042" src="https://github.com/user-attachments/assets/261857b8-c34d-41a5-a6e7-17fbd1610d30" />
+
 
 
 ## 6. OLED SECREENWRITER
@@ -53,8 +54,8 @@ This project is focused on printing a moving and changing characters display. It
 https://github.com/user-attachments/assets/72f1c856-acf8-4742-bd37-08519f53a7f9
 
 
-## 7. JOYSTIC CONTROLED SERVO MOTOR
+## 7. JOYSTICK CONTROLED SERVO MOTOR
 This project uses a joystic, 2 servo motors, a breadboard and a microcontroller.
-How it works: The first servo motor is controlled by the vertical(or y-axis) movement of the joystick; the second servo motor is controlled by the horizontal movement of the joystick.
+How it works: The first servo motor is controlled by the vertical(or y-axis) movement of the joystick; the second servo motor is controlled by the horizontal(or x-axis) movement of the joystick.
 
 <img width="362" height="377" alt="image" src="https://github.com/user-attachments/assets/34b3952c-0769-4f9d-a38c-987d5bd3875b" />
